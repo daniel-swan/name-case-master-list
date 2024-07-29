@@ -50,4 +50,27 @@ acase
 ### aliases
 - mumblecase
 
+## UPPERCASE
 
+### aliases
+- SCREAMINGCASE
+
+## Train-Case
+Choo Choo!
+### aliases
+- HTTP-Header-Case
+
+## camel_Snake_Case
+A case for the undecided
+
+## spOngeBoB_Case
+Based on the mocking SpongeBob meme
+### aliases
+- SpongeCase
+- Mocking Spongebob Case
+
+## L33TCa5e
+For elite hax0rs
+
+## Butterkäse
+The best kase of all. Yum!
