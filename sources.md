@@ -1,0 +1,6 @@
+- <https://curc.readthedocs.io/en/latest/programming/coding-best-practices.html>
+- <https://www.theserverside.com/feature/A-guide-to-common-variable-naming-conventions>
+- <https://en.wikipedia.org/wiki/Naming_convention_(programming)>
+- <https://hardiquedasore.medium.com/different-types-of-cases-in-variable-naming-convention-2741788f1a7f>
+- <https://stackoverflow.com/questions/17326185/what-are-the-different-kinds-of-cases>
+- <https://www.pluralsight.com/blog/software-development/programming-naming-conventions-explained>
