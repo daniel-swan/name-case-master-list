@@ -54,6 +54,7 @@ acase
 
 ### aliases
 - SCREAMINGCASE
+- UPPERFLATCASE
 
 ## Train-Case
 Choo Choo!
@@ -62,6 +63,8 @@ Choo Choo!
 
 ## camel_Snake_Case
 A case for the undecided
+
+## Pascal_SnakeCase
 
 ## spOngeBoB_Case
 Based on the mocking SpongeBob meme
